@@ -41,8 +41,5 @@ To run this project locally:
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-## Developer
-Created by [mowhn](https://github.com/mowhn). Follow me on GitHub for more projects!
-
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
